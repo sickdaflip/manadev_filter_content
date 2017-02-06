@@ -36,12 +36,12 @@
         "app/design/frontend/base/default/template/"
       ],
       [
-        "app/design/frontend/base/rwd/layout/*",
-        "app/design/frontend/base/rwd/layout/"
+        "app/design/frontend/rwd/default/layout/*",
+        "app/design/frontend/rwd/default/layout/"
       ],
       [
-        "app/design/frontend/base/rwd/template/*",
-        "app/design/frontend/base/rwd/template/"
+        "app/design/frontend/rwd/default/template/*",
+        "app/design/frontend/rwd/default/template/"
       ],
       [
         "app/etc/modules/*.xml",
@@ -105,12 +105,12 @@
       ]
     ,
       [
-        "skin/frontend/base/rwd/css/*",
-        "skin/frontend/base/rwd/css/"
+        "skin/frontend/rwd/default/css/*",
+        "skin/frontend/rwd/default/css/"
       ],
       [
-        "skin/frontend/base/rwd/images/*",
-        "skin/frontend/base/rwd/images/"
+        "skin/frontend/rwd/default/images/*",
+        "skin/frontend/rwd/default/images/"
       ]
     ]
   }
