@@ -56,10 +56,6 @@
         "js/jquery/"
       ],
       [
-        "js/m-classes/*",
-        "js/m-classes/"
-      ],
-      [
         "js/mana/*",
         "js/mana/"
       ],
